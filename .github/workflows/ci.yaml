@@ -22,7 +22,7 @@ jobs:
       id: config
       uses: opcr-io/ga-yaml-parser@v0.1
       with:
-        file: .github/config.yaml
+        file: .github/config-policy.yaml
 
     - name: Policy Build
       id: policy-build
