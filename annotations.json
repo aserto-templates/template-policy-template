@@ -4,6 +4,7 @@
         "org.opencontainers.image.authors": "Aserto",
         "org.opencontainers.image.title": "policy-template",
         "org.opencontainers.image.description": "Minimal policy template.",
+        "org.opencontainers.image.source": "https://github.com/aserto-templates/template-policy-template",
         "org.openpolicyregistry.template.kind": "policy"
     }
 }
